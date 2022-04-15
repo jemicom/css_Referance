@@ -172,7 +172,7 @@ eager: 페이지에서의 위치에 관계없이 리소스를 즉시 로드합�
 
 📚 참고사이트
 
-🔗[ MDN: Table Basics] (https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+🔗[ MDN: Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 
 🔗[ MDN: Advanced Tables 과 활용](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
 
@@ -212,7 +212,7 @@ eager: 페이지에서의 위치에 관계없이 리소스를 즉시 로드합�
 
 📚 참고사이트
 
-🔗[Semantic HTML Viewer(]https://developer.mozilla.org/ko/docs/Web/HTML/Element/details)
+🔗[Semantic HTML Viewer(https://developer.mozilla.org/ko/docs/Web/HTML/Element/details)
 
 <summary> 태그는 <details> 요소에 대한 가시적인 제목을 정의합니다. 제목을 클릭하면 세부 정보를 보거나 숨길 수 있습니다.
 
