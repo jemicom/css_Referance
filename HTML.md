@@ -10,13 +10,15 @@
 1. Visual Studio Code , Optional VS Code Extensions
 1. What is HTML?
 1. Google Chrome Browser
-1. 1.Two Major Areas of an HTML page : body, head
-   1.meta, title, h1
+1. html 기본 구조
+   body, head , meta, title, h1
 1. Adding a heading and a paragraph
 1. Line breaks <br />
 
 📚 참고사이트
+
 🔗[MDN:HTML](https://developer.mozilla.org/ko/docs/Web/HTML)
+
 🔗[MDN:HTML Element](https://developer.mozilla.org/ko/docs/Web/HTML/Element)
 
 ```
