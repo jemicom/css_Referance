@@ -130,11 +130,11 @@ eager: 페이지에서의 위치에 관계없이 리소스를 즉시 로드합�
 
 🔗[MDN:lazy](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
 
-🔗[extention : HTML5 Outliner]: (https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
+🔗[extention : HTML5 Outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 
-🔗[MDN : Sementic HTML5 Viewer]
+🔗[MDN : Sementic HTML5 Viewer](https://chrome.google.com/webstore/detail/semantic-html-viewer/glapikbnefnagjolgppjefchjkjffhog?hl=ko)
 
-🔗[Named character references](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
+🔗[Named character references](https://www.w3schools.com/charsets/ref_html_ansi.asp)
 
 # 학습목표 4
 
