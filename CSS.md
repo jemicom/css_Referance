@@ -16,6 +16,7 @@
 # 학습목표2
 
 🔗[MDN:CSS_Selectors](https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Selectors)
+
 🔗[MDN:CSS_Selectors](https://developer.mozilla.org/ko/docs/Learn/CSS/Building_blocks/Selectors)
 
 1. 다양한 slectors(선택자)를 지정할 수 있다.
@@ -53,7 +54,15 @@
 
   🔗[칼라파렛트](https://coolors.co/contrast-checker/112a46-acc8e5)
 
-  🔗[칼라파렛트](https://webaim.org/resources/contrastchecker/)
+  🔗[칼라레퍼런스](https://tutorial.techaltum.com/css-colors.html)
+
+  🔗[mycolor.space/](https://mycolor.space/)
+
+  🔗[ colourlovers ](https://www.colourlovers.com/)
+
+  🔗[ 그라디언트 ](https://cssgradient.io/)
+
+  🔗[ 그라디언트 ](http://ourownthing.co.uk/gradpad.html)
 
   🔗[칼라파렛트](https://htmlcolorcodes.com/)
 
